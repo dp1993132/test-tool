@@ -1,0 +1,124 @@
+syntax = "proto3";
+
+package message;
+
+//msgid=0xc487
+message NodeCapacityRequest{
+}
+
+//msgid=0xe684
+message NodeCapacityResponse {
+    bool writable=1;
+    string allocId=2;
+}
+
+
+//msgid=0xCB05
+message UploadShardRequest  {
+   int32 SHARDID=1;
+   int32 BPDID = 2;
+   int64 VBI = 3;
+   bytes BPDSIGN=4;
+   bytes DAT=5;
+   bytes VHF=6;
+   bytes USERSIGN=7;
+   string allocId=8;
+}
+
+
+message UploadShardResponse  {
+   int32 RES= 1; 
+   int32 SHARDID = 2;
+   int64 VBI = 3;
+   bytes VHF=4;
+   bytes USERSIGN=5;
+}
+
+message VoidResponse  {
+}
+
+message UploadShard2CResponse {
+   int32 RES= 1;
+   string DNSIGN =2;
+}
+
+message DownloadShardRequest {
+   bytes VHF=1;
+}
+
+message DownloadShardResponse{
+   bytes data=1;
+}
+
+message NodeRegReq {                           
+
+    string nodeid= 1;                           
+    string owner=2;                              
+    uint64 maxDataSpace=3;                 
+    repeated string addrs=4;     
+    bool relay=5;
+}
+
+
+message NodeRegResp {                        
+    uint32 id= 1;                                    
+    uint64 assignedSpace=2;    
+    string relayUrl=3;
+}
+
+message StatusRepReq {
+    uint32 id=1;
+    uint32 cpu=2;
+    uint32 memory=3;
+    uint32 bandwidth=4;
+    uint64 maxDataSpace=5;
+    uint64 assignedSpace=6;
+    uint64 usedSpace=7;
+    repeated string addrs=8;
+    bool relay=9;
+    uint32 version=10;
+ }
+
+message StatusRepResp {
+    uint64 productiveSpace=1; 
+    string relayUrl=2;                 
+}
+
+message P2PLocation{
+    string nodeId=1;
+    repeated string addrs=2;
+}
+
+message TaskDescription{
+    int64 id = 1; 
+    repeated bytes dataHash=2;
+    repeated bytes parityHash=3;
+    repeated P2PLocation locations=4;
+    repeated int32 recoverId=5;
+}
+
+message TaskOpResult{
+    int64 id = 1; 
+    int32 RES=2;
+}
+message StringMsg{
+    string msg=1;
+}
+
+message SpotCheckTaskList{
+    string taskId = 1;
+     int32 snid=2;
+    repeated SpotCheckTask taskList=3;
+}
+
+message SpotCheckTask{
+    int32 id = 1;
+    string nodeId=2;
+    string addr=3;
+    bytes VHF=4;
+}
+
+message SpotCheckStatus{
+    string taskId = 1;
+    repeated int32 invalidNodeList=2;
+}

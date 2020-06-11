@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e66e89f7-0a24-4876-858f-09292baa2119" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/adb-conn-server/public/dk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adb-conn-server/shell-server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adb-conn-server/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/adb-conn-server/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adb-conn-server/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/adb-conn-server/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adb-conn-server/public/method.js" beforeDir="false" afterPath="$PROJECT_DIR$/adb-conn-server/public/method.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="MBHckaMt" />
+  </component>
+  <component name="ProjectId" id="1Y6U5fg7yWxdYPbVj1Y4vFWYYSt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/send-shard" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/send-shard" />
+      <recent name="$PROJECT_DIR$/search_bencode_file_content" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test-tool/token" />
+      <recent name="$PROJECT_DIR$/adb-conn-server/public" />
+      <recent name="$PROJECT_DIR$/send-shard/token" />
+      <recent name="$PROJECT_DIR$/send-shard" />
+      <recent name="$PROJECT_DIR$/search_bencode_file_content/db" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/dp1993132/test-tool/fileUpload">
+    <configuration name="go build github.com/dp1993132/test-tool/copy-ytfs-to-level-db" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="test-tool" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/copy-ytfs-to-level-db/main.go" />
+      <package value="github.com/dp1993132/test-tool/copy-ytfs-to-level-db" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/dp1993132/test-tool/fileUpload" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="test-tool" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/fileUpload/main.go" />
+      <package value="github.com/dp1993132/test-tool/fileUpload" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/dp1993132/test-tool/report-handler" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="test-tool" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/report-handler/main.go" />
+      <package value="github.com/dp1993132/test-tool/report-handler" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/dp1993132/test-tool/rsa-demo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="test-tool" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/rsa-demo/main.go" />
+      <package value="github.com/dp1993132/test-tool/rsa-demo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="test-tool" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/exec-shell/server/main.go" />
+      <package value="github.com/dp1993132/test-tool" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/dp1993132/test-tool/fileUpload" />
+        <item itemvalue="Go Build.go build github.com/dp1993132/test-tool/copy-ytfs-to-level-db" />
+        <item itemvalue="Go Build.go build github.com/dp1993132/test-tool/report-handler" />
+        <item itemvalue="Go Build.go build github.com/dp1993132/test-tool/rsa-demo" />
+        <item itemvalue="Go Build.go build main.go (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="192" key="#Go_Modules_(vgo)" timestamp="1582840833048">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="192" key="#Go_Modules_(vgo)/0.0.1680.1050@0.0.1680.1050" timestamp="1582840833048" />
+    <state x="516" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590720286169">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="516" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1590720286169" />
+    <state width="1638" height="369" key="GridCell.Tab.0.bottom" timestamp="1591006661358">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="369" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591006661358" />
+    <state width="1638" height="369" key="GridCell.Tab.0.bottom/0.23.1680.964@0.23.1680.964" timestamp="1583835655219" />
+    <state width="1638" height="369" key="GridCell.Tab.0.center" timestamp="1591006661356">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="369" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591006661356" />
+    <state width="1638" height="369" key="GridCell.Tab.0.center/0.23.1680.964@0.23.1680.964" timestamp="1583835655216" />
+    <state width="1638" height="369" key="GridCell.Tab.0.left" timestamp="1591006661354">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="369" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591006661354" />
+    <state width="1638" height="369" key="GridCell.Tab.0.left/0.23.1680.964@0.23.1680.964" timestamp="1583835655212" />
+    <state width="1638" height="369" key="GridCell.Tab.0.right" timestamp="1591006661357">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="369" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591006661357" />
+    <state width="1638" height="369" key="GridCell.Tab.0.right/0.23.1680.964@0.23.1680.964" timestamp="1583835655217" />
+    <state x="349" y="164" key="SettingsEditor" timestamp="1587892679507">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1587892679507" />
+    <state x="100" y="100" width="1480" height="850" key="dock-window-1" timestamp="1583835294044">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="dock-window-1/0.0.1680.1050@0.0.1680.1050" timestamp="1583835294044" />
+    <state x="100" y="100" width="1480" height="850" key="dock-window-2" timestamp="1583835294045">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="dock-window-2/0.0.1680.1050@0.0.1680.1050" timestamp="1583835294045" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1585555136778">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1585555136778" />
+  </component>
+</project>

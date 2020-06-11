@@ -1,0 +1,8 @@
+addrs:
+  - /ip4/0.0.0.0/tcp/9002/p2p/16Uiu2HAkva8EVP6Maag6GmyR2fsxsZrwqB8rawJJ2aKv5hhRTnsy
+
+count: 640
+concurrency: 40
+sleep: 1
+needToken: false
+listenAddr: "/ip4/0.0.0.0/tcp/8998"

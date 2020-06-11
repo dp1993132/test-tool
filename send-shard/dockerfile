@@ -1,0 +1,7 @@
+FROM centos
+
+WORKDIR /app
+
+ENV ytfs_path=/app
+
+EXPOSE

@@ -1,0 +1,11 @@
+[
+  {
+    "name":"rand",
+    "randNodeNum": 50,
+    "optimitionNodeNum": 950,
+    "queueLength": 2000,
+    "testDuration": 10,
+    "closeConn": false,
+    "timeOut": 10
+  }
+]
